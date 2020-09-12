@@ -68,7 +68,7 @@ public class AlunosFtcSjc {
 		System.out.println("Período:" + this.getPeriodo());
 		System.out.println("Média:" + this.media);
 		System.out.println("Situação do Aluno:");
-		
+		System.out.println("Teste de Git");
 	}
 	
 	public void media() {
